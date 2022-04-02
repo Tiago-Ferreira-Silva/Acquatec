@@ -35,8 +35,6 @@ body{
 .agora{
     font-weight: 1000;
 }
-
-<<<<<<< HEAD
 .banner {
     height: 500px;
     background-image:  url(imgs/bg-jelly-fish-para-home.png);
@@ -154,21 +152,12 @@ a{
     text-decoration: none;
     color: #e6005a;
 }
-
-
-
-
-
-
-
-=======
 .banner{
     height: 500px;
     background-image: url(imgs/bg-jelly-fish-para-home.png);
     background-size: cover;
     
 }
-
 .banner .container{
     height: 100%;
     display: flex;
@@ -176,8 +165,6 @@ a{
     align-items: center;
     color: white;
 }
->>>>>>> 0d009f26c623319b9bc66ab50e570997a81d7134
-
 .banner .container p{
     width: 280px;
     margin:0;
@@ -222,6 +209,7 @@ input{
     width: 120px;
     align-self: center;
     cursor: pointer;
+    margin-top: 25px;
 }
 
 .banner .card{
